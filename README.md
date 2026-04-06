@@ -4,7 +4,7 @@
 ### **Termux Setup & Customization Tool**
 
 [![GitHub Version](https://img.shields.io/badge/Follow-My%20GitHub%20Account-%238A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlameVortex)
-[![GitHub stars](https://img.shields.io/badge/stars-⭐The%20Repo-brightgreen?style=for-the-badge)](https://github.com/FlameVortex/Flame-OS-v3/stargazers)
+[![GitHub stars](https://img.shields.io/badge/stars-⭐The%20Repo-brightgreen?style=for-the-badge)](https://github.com/FlameVortex/Flame-OS/stargazers)
 [![Version](https://img.shields.io/badge/Version-3.0%20(Stable)-%2300A86B?style=for-the-badge)](https://github.com/FlameVortex)
 [![Telegram](https://img.shields.io/badge/Telegram-Account-0088cc?style=for-the-badge&logo=telegram)](https://t.me/FlameVortex_TRS)
 [![Developer](https://img.shields.io/badge/Developer-FlameVortex-%23B30000?style=for-the-badge)](https://github.com/FlameVortex)
