@@ -31,7 +31,7 @@
 Copy and paste the code below into your Termux terminal to start the setup:
 
 ```bash
-yes | pkg update && yes | pkg upgrade && pkg install python git -y && pkg reinstall python -y && hash -r && rm -rf Flame-OS && git clone https://github.com/FlameVortex/Flame-OS && cd Flame-OS && python3 setup.py
+yes | pkg update && yes | pkg upgrade && pkg install python git && pkg install python -y && hash -r && rm -rf Flame-OS && git clone https://github.com/FlameVortex/Flame-OS && cd Flame-OS && python run.py
 ```
 
 ---
